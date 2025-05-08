@@ -1,24 +1,62 @@
-<h1 align="center">Hi 👋, I'm Atindra Raut</h1>
-<h3 align="center">A passionate software developer</h3>
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atindraraut&label=Profile%20views&color=0e75b6&style=flat" alt="atindraraut" /> </p>
- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atindraraut" alt="atindraraut" /></a> </p>
- 
-<p align="left"> <a href="https://twitter.com/@atindraraut0809" target="blank"><img src="https://img.shields.io/twitter/follow/@atindraraut0809?logo=twitter&style=for-the-badge" alt="@atindraraut0809" /></a> </p>
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@atindraraut0809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@atindraraut0809" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mradul-garg-388b821b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mradul-garg-388b821b2/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/atindraraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atindraraut" height="30" width="40" /></a>
-</p>
- 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atindraraut&show_icons=true&locale=en&layout=compact" alt="atindraraut" /></p>
- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atindraraut&show_icons=true&locale=en" alt="atindraraut" /></p>
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atindraraut&" alt="atindraraut" /></p>
+# 🌟 Atindra Raut's GitHub Portfolio
+
+Welcome to my GitHub portfolio! Here, you'll find a collection of projects that showcase my skills, experience, and passion for software development. From backend APIs to full-stack development and infrastructure deployment, I enjoy solving complex problems and creating user-friendly applications.
+
+---
+
+## 🛠️ Skills & Expertise
+
+- **Programming Languages**: Go, TypeScript, JavaScript, HCL, C++
+- **Technologies & Tools**: RESTful APIs, SQLite, AWS, Next.js, Redis, Node.js
+- **Specializations**:
+  - Backend API development
+  - Cloud infrastructure deployment
+  - Full-stack web applications
+  - Data structures and algorithms
+
+---
+
+## 📂 Featured Projects
+
+### [Students API (Go)](https://github.com/atindraraut/students-api-go)
+- **Description**: My first Go project! A RESTful API for managing student records with CRUD operations, SQLite integration, and modular design.
+- **Technologies**: Go, SQLite
+- **Purpose**: Explore core Go concepts like HTTP handling, configuration, and database interaction.
+
+### [Routes Planner (TypeScript)](https://github.com/atindraraut/routesplanner)
+- **Technologies**: TypeScript
+- **Purpose**: A project demonstrating my expertise in TypeScript and planning complex routes.
+
+### [Portfolio (JavaScript)](https://github.com/atindraraut/portfolio)
+- **Technologies**: JavaScript
+- **Purpose**: My personal portfolio showcasing my projects and skills.
+
+### [VPC Deployment Template (HCL)](https://github.com/atindraraut/vpc_deployment_template)
+- **Description**: A cloud infrastructure project deploying personal projects in AWS for short-term use.
+- **Technologies**: HCL, AWS
+
+### [Chatter Box (TypeScript)](https://github.com/atindraraut/chatter-box)
+- **Description**: A fast chat application using Next.js, Redis, and Node.js.
+- **Technologies**: Next.js, Redis, Node.js
+
+---
+
+## 🎯 Other Notable Projects
+
+- [Low-Level Design (C++)](https://github.com/atindraraut/lowleveldesign): C++ practice for understanding low-level design principles.
+- [DSA Practice (JavaScript)](https://github.com/atindraraut/dsa_javascript): Daily revision repository for data structures and algorithms in JavaScript.
+- [Node Backend Template](https://github.com/atindraraut/node_backend_template_dummy): A template for backend applications in Node.js.
+- [Sidhiconlts (JavaScript)](https://github.com/atindraraut/sidhiconlts): Miscellaneous JavaScript experiments.
+
+---
+
+## 📈 Stats & Achievements
+
+- **Total Projects**: 27 (10 showcased here)
+- **Languages Used**: Go, TypeScript, JavaScript, HCL, C++
+- **Interest Areas**: Backend API design, cloud infrastructure, and full-stack development
+- **Open Source Contributions**: Passionate about sharing knowledge and building tools for the developer community.
+
+---
+
+Feel free to explore my repositories and connect with me for collaborations or discussions on any of my projects. 🚀
